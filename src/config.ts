@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "https://youke.xn--y7xa690gmna.cn/s1/2026/02/20/69986ab957430.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "https://pbed.897231.xyz/file/1773079062415_Image_1773079009848_101.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Wuming",
 	bio: "你所热爱的，就是你的生活",
 	links: [
